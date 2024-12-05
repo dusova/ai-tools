@@ -1,372 +1,366 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">99 Adet Ücretsiz Yapay Zeka Aracı <br></h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">99 Free Artificial Intelligence (AI) Tools <br></h2>
 <img src="./banner.png" alt="99 Adet Ücretsiz Yapay Zeka Aracı"></img>
-<h4 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Sosyal Medya Üzerinden Beni Takip Edebilirsiniz. <br></h4>
+<h4 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Follow me on social media. <br></h4>
 <p align="center">
-    <a href="https://github.com/madtethys" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/dusova" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://vsco.co/mstarda" target"blank_"><img src="https://img.shields.io/badge/vsco%20-191717.svg?&style=for-the-badge&logo=vsco&logoColor=white"></a>
     <a href="https://www.instagram.com/mdusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://x.com/madgrafik" target"blank_"><img src="https://i.hizliresim.com/lzfsyes.png" style="height: 28px;"></a>
-<a href="https://github.com/madtethys/yapayzeka-araclari/blob/main/README.en.md" target"blank_"><img src="./EnglishButton.png" style="height: 28px;"></a>
+<a href="https://github.com/dusova/ai-tools/blob/main/README_TR.md" target"blank_"><img src="./TurkishButton.png" style="height: 28px;"></a>
 </p> <br>
 
+## What is Artificial Intelligence?
+Artificial Intelligence (AI) can be defined as the simulation of human intelligence in a digital environment. It aims to equip computer systems with the abilities to think, learn, solve problems, and make decisions like humans. AI develops algorithms that mimic human behavior by leveraging disciplines such as big data, machine learning, deep learning, and natural language processing (NLP).
 
-## Yapay Zeka Nedir?
+AI technology has revolutionized many sectors today and has countless applications in various fields. For example:
 
-Yapay Zeka (YZ), insan zekâsının dijital ortamda simüle edilmesi olarak tanımlanabilir. Bilgisayar sistemlerine, insanlar gibi düşünme, öğrenme, problem çözme ve karar verme becerilerini kazandırmayı amaçlar. Yapay zeka, büyük veri, makine öğrenimi, derin öğrenme, doğal dil işleme (NLP) gibi disiplinlerden yararlanarak insan davranışlarını taklit eden algoritmalar geliştirir.
+- **Natural Language Processing (NLP):** Chatbots, virtual assistants, and text analysis tools that interact with human language.
+- **Image Recognition:** Facial recognition systems, medical image analysis, object detection.
+- **Autonomous Systems:** Driverless cars, robotic processes, drones.
+- **Data Analysis and Prediction:** Algorithms that analyze large datasets and predict future trends.
 
-YZ teknolojisi, günümüzde birçok sektörde devrim yaratmış ve farklı alanlarda sayısız uygulamaya sahiptir. Örneğin:
-- **Doğal Dil İşleme (NLP)**: İnsan diliyle etkileşime giren chatbot'lar, sanal asistanlar, metin analiz araçları.
-- **Görüntü Tanıma**: Yüz tanıma sistemleri, tıbbi görüntü analizi, nesne algılama.
-- **Otonom Sistemler**: Sürücüsüz araçlar, robotik süreçler, dronelar.
-- **Veri Analizi ve Tahmin**: Büyük veri setlerini analiz eden ve gelecekteki eğilimleri tahmin eden algoritmalar.
+## Why are AI Tools Important?
+AI tools simplify complex technological processes, enabling users to benefit from AI capabilities. These tools accelerate the AI development process while making it accessible even to users without technical knowledge. Users without coding skills can develop AI-based solutions using drag-and-drop platforms or pre-built models. Through these tools, business processes can be automated, smarter data analytics can be performed, customer services can be improved, and innovation can accelerate.
 
-## Yapay Zeka Araçları Neden Önemli?
+## What Will You Find in This Blog?
+This blog serves as a comprehensive guide for those looking to step into the world of AI and explore existing artificial intelligence tools. Below, we have listed the most popular and effective AI tools across different categories. You will find information about each tool’s application areas, benefits, and how it works.
 
-Yapay zeka araçları, karmaşık teknolojik süreçleri basitleştirerek, kullanıcıların YZ yeteneklerinden faydalanmasını sağlar. Bu araçlar, YZ geliştirme sürecini hızlandırırken, aynı zamanda teknik bilgi gerektirmeyen kullanıcılar için bile erişilebilir hale getirir. Kodlama bilgisi olmayan kullanıcılar, sürükle-bırak platformlar ya da hazır modeller kullanarak yapay zeka tabanlı çözümler geliştirebilirler. Bu araçlar sayesinde, iş süreçleri otomatik hale getirilir, daha akıllı veri analitiği yapılabilir, müşteri hizmetleri iyileştirilebilir ve inovasyon hız kazanır.
+### Categories
+1. **Natural Language Processing (NLP) Tools**
+> Tools used for language modeling, text generation, chatbots, and language understanding.
 
-## Bu Blogda Neler Bulacaksınız?
+2. **Image Recognition and Processing Tools**
+> Tools developed for applications such as computer vision, object detection, and medical imaging.
 
-Bu blog, YZ dünyasına adım atmak isteyenler ve mevcut yapay zeka araçlarını keşfetmek isteyenler için kapsamlı bir rehber niteliğindedir. Aşağıda, en popüler ve etkili yapay zeka araçlarını farklı kategorilerde listeledik. Her bir aracın kullanım alanları, sunduğu avantajlar ve nasıl çalıştığı hakkında bilgi bulacaksınız.
+3. **Machine Learning and Deep Learning Tools**
+> Tools used for model development, data analysis, prediction, and classification tasks.
 
-### Kategoriler
+4. **AI Tools for Gaming and Art**
+> AI solutions for art, music, game development, and creative content production.
 
-1. **Doğal Dil İşleme (NLP) Araçları**  
-   Dil modelleme, metin oluşturma, chatbot'lar ve dil anlayışı için kullanılan araçlar.
+5. **Business and Productivity AI Tools**
+> AI applications for automating business processes, customer support systems, and increasing productivity.
 
-2. **Görüntü Tanıma ve İşleme Araçları**  
-   Bilgisayarla görü, nesne algılama ve tıbbi görüntüleme gibi uygulamalar için geliştirilmiş araçlar.
+### Benefits of Using AI Tools
+Using AI tools is advantageous not only for technically skilled users but also for newcomers to these technologies. Some of the benefits of these tools include:
 
-3. **Makine Öğrenimi ve Derin Öğrenme Araçları**  
-   Model geliştirme, veri analizi, tahmin ve sınıflandırma işlemleri için kullanılan araçlar.
+- **Easy Integration:** Most tools can be easily integrated into existing systems and offer user-friendly interfaces.
+- **Increased Efficiency:** Automating routine tasks saves time and minimizes human error.
+- **Power in Data Analysis:** Analyzing large datasets can lead to more accurate predictions of future trends.
+- **Innovative Solutions:** Serves as a source of inspiration for creative projects and accelerates the implementation of new ideas.
 
-4. **Oyun ve Sanat İçin Yapay Zeka Araçları**  
-   Sanat, müzik, oyun geliştirme ve yaratıcı içerik üretimi için yapay zeka çözümleri.
-
-5. **İş ve Verimlilik Yapay Zeka Araçları**  
-   İş süreçlerinin otomasyonu, müşteri destek sistemleri ve verimlilik artırıcı yapay zeka uygulamaları.
-
-### Yapay Zeka Araçlarını Kullanmanın Faydaları
-
-Yapay zeka araçlarını kullanmak, yalnızca teknik bilgiye sahip kullanıcılar için değil, aynı zamanda bu teknolojilere yeni adım atanlar için de oldukça faydalıdır. Bu araçların bazı avantajları şunlardır:
-- **Kolay Entegrasyon**: Çoğu araç, mevcut sistemlere kolayca entegre edilebilir ve kullanıcı dostu arayüzler sunar.
-- **Verimlilik Artışı**: Rutin görevlerin otomasyonu ile zaman kazandırır ve insan hatasını minimize eder.
-- **Veri Analizinde Güç**: Büyük veri setleri üzerinde analiz yaparak gelecekteki eğilimleri daha doğru tahmin edebilir.
-- **Yenilikçi Çözümler**: Yaratıcı projeler için ilham kaynağı olur ve yeni fikirlerin hayata geçirilmesini hızlandırır.
-
-Bu blog, yapay zekanın gücünü keşfetmek isteyen herkes için bir rehber sunmaktadır. Yapay zeka araçlarıyla yapabileceklerinizi keşfetmeye hazır mısınız? Aşağıdaki listeyle başlayın ve her aracı detaylı bir şekilde inceleyin.
+This blog offers a guide for anyone looking to explore the power of artificial intelligence. Are you ready to discover what you can do with AI tools? Start with the list below and dive into each tool in detail.
 
 <br>
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">A'dan Z'ye Tüm Yapay Zekalar <br></h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">A to Z All Artificial Intelligence Tools <br></h2>
 
+#### 1- 2short.ai: [Click here to access the AI!](https://2short.ai/)
+> This tool allows you to convert long videos into short and impactful clips. For content creators, it's important to quickly cut and share attention-grabbing moments. It saves time with automatic editing features.
 
-#### 1- 2short.ai: [Yapay Zekaya ulaşmak için tıkla!](https://2short.ai/)
-> Bu araç, uzun videoları kısa ve etkileyici kliplere dönüştürmenizi sağlar. İçerik üreticileri için, dikkat çekici anları hızlı bir şekilde kesip paylaşmak önemlidir. Otomatik düzenleme özellikleri ile zamandan tasarruf sağlar.
+#### 2- Adobe Podcast: [Click here to access the AI!](https://podcast.adobe.com/)
+> It's a platform you can use to bring your audio recordings to a professional level. It makes podcasters' work easier by offering features such as reducing background noise, increasing audio clarity, and adding sound effects.
 
-#### 2- Adobe Podcast: [Yapay Zekaya ulaşmak için tıkla!](https://podcast.adobe.com/)
-> Ses kayıtlarınızı profesyonel bir düzeye getirmek için kullanabileceğiniz bir platformdur. Arka plan gürültüsünü azaltma, ses netliğini artırma ve ses efektleri ekleme gibi özellikler sunarak podcast yayıncılarının işini kolaylaştırır.
+#### 3- AI Comic Factory: [Click here to access the AI!](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory)
+> It allows you to transform texts into comic book format. Users can create fun and engaging content while using their imagination to visualize their stories.
 
-#### 3- AI Comic Factory: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory)
-> Metinleri çizgi roman formatına dönüştürmenize olanak tanır. Kullanıcılar, hikayelerini görselleştirirken hayal gücünü kullanarak eğlenceli ve ilgi çekici içerikler oluşturabilir.
+#### 4- AI Dungeon: [Click here to access the AI!](https://aidungeon.com/)
+> This platform allows users to guide their adventures in text-based stories. You can write freely without being bound by any story writing rules and get instant responses.
 
-#### 4- AI Dungeon: [Yapay Zekaya ulaşmak için tıkla!](https://aidungeon.com/)
-> Bu platform, kullanıcıların metin tabanlı hikayelerde maceralarını yönlendirmelerine imkan tanır. Herhangi bir hikaye yazımı kurallarına bağlı kalmadan özgürce yazabilir ve anlık tepkiler alabilirsiniz.
+#### 5- AI Emoji Generator: [Click here to access the AI!](https://emojis.sh/)
+> Allows users to create personalized or brand-based emojis. It makes your social media interactions more fun and personal.
 
-#### 5- AI Emoji Generator: [Yapay Zekaya ulaşmak için tıkla!](https://emojis.sh/)
-> Kullanıcıların kişisel veya marka bazında özelleştirilmiş emojiler oluşturmalarını sağlar. Sosyal medya etkileşimlerinizi daha eğlenceli ve kişisel hale getirir.
+#### 6- Animated Drawings: [Click here to access the AI!](https://sketch.metademolab.com/)
+> It's a tool capable of animating static drawings. Users can bring their drawings to life, thus creating more dynamic artworks.
 
-#### 6- Animated Drawings: [Yapay Zekaya ulaşmak için tıkla!](https://sketch.metademolab.com/)
-> Statik çizimleri canlandırma yeteneğine sahip bir araçtır. Kullanıcılar, çizimlerini hareketlendirebilir ve bu sayede daha dinamik sanat eserleri ortaya çıkarabilir.
+#### 7- askThee: [Click here to access the AI!](https://askthee.vercel.app/)
+> It's a question-answering platform that can answer users' questions on various topics. It speeds up the process of acquiring knowledge and makes learning more accessible.
 
-#### 7- askThee: [Yapay Zekaya ulaşmak için tıkla!](https://askthee.vercel.app/)
-> Kullanıcıların çeşitli konularda sorularını yanıtlayabilen bir soru cevaplama platformudur. Bilgi edinme sürecini hızlandırır ve öğrenmeyi daha erişilebilir hale getirir.
+#### 8- Audiobox: [Click here to access the AI!](https://audiobox.metademolab.com/)
+> It's a music and audio editing platform. Users can cut and format audio files, add effects, and produce higher quality audio content.
 
-#### 8- Audiobox: [Yapay Zekaya ulaşmak için tıkla!](https://audiobox.metademolab.com/)
-> Müzik ve ses düzenleme platformudur. Kullanıcılar, ses dosyalarını kesip biçimlendirebilir, efektler ekleyebilir ve daha kaliteli ses içerikleri üretebilir.
+#### 9- AutoDraw: [Click here to access the AI!](https://www.autodraw.com/)
+> It's a tool that automatically recognizes and corrects your drawings. It makes your quick and simple drawings more professional.
 
-#### 9- AutoDraw: [Yapay Zekaya ulaşmak için tıkla!](https://www.autodraw.com/)
-> Çizimlerinizi otomatik olarak tanıyıp düzelten bir araçtır. Hızlı ve basit çizimlerinizi daha profesyonel hale getirir.
+#### 10- Bark: [Click here to access the AI!](https://huggingface.co/spaces/suno/bark)
+> It's an application that converts text to speech. Users can reach a wider audience by sharing their written content as audio.
 
-#### 10- Bark: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/suno/bark)
-> Metinleri sesli hale dönüştüren bir uygulamadır. Kullanıcılar, yazılı içeriklerini sesli olarak paylaşarak daha geniş bir kitleye ulaşabilir.
+#### 11- Black Forest Labs: [Click here to access the AI!](https://blackforestlabs.ai/)
+> It generates visuals from text. It's very helpful for designers and content creators in creating visual content.
 
-#### 11- Black Forest Labs: [Yapay Zekaya ulaşmak için tıkla!](https://blackforestlabs.ai/)
-> Metinden görsel üretimi yapar. Tasarımcılar ve içerik üreticileri için görsel içerik oluşturmakta oldukça yardımcıdır.
+#### 12- Blockade Labs: [Click here to access the AI!](https://www.blockadelabs.com/)
+> It's a platform that helps users create 3D environments. It's useful for developing creative projects for game designers and architects.
 
-#### 12- Blockade Labs: [Yapay Zekaya ulaşmak için tıkla!](https://www.blockadelabs.com/)
-> Kullanıcıların 3D ortamlar oluşturmasına yardımcı olan bir platformdur. Oyun tasarımcıları ve mimarlar için yaratıcı projeler geliştirmek adına faydalıdır.
+#### 13- Canva: [Click here to access the AI!](https://www.canva.com/)
+> It's a versatile graphic design tool. It offers a user-friendly interface for creating various visual content from social media posts to brochures.
 
-#### 13- Canva: [Yapay Zekaya ulaşmak için tıkla!](https://www.canva.com/)
-> Çok yönlü bir grafik tasarım aracıdır. Sosyal medya gönderilerinden broşürlere kadar çeşitli görsel içerikler oluşturmak için kullanıcı dostu bir arayüz sunar.
+#### 14- Capcut: [Click here to access the AI!](https://www.capcut.com/tr-tr/tools/ai-image-upscaler)
+> As a video editing tool, it allows users to cut and edit their videos. It offers quick solutions especially for social media content.
 
-#### 14- Capcut: [Yapay Zekaya ulaşmak için tıkla!](https://www.capcut.com/tr-tr/tools/ai-image-upscaler)
-> Video düzenleme aracı olarak, kullanıcıların videolarını kesip düzenlemelerine olanak tanır. Özellikle sosyal medya içerikleri için hızlı çözümler sunar.
+#### 15- character.ai: [Click here to access the AI!](https://character.ai/)
+> It allows you to interact with chatbots. You can use it as a personal assistant or have a fun chat experience.
 
-#### 15- character.ai: [Yapay Zekaya ulaşmak için tıkla!](https://character.ai/)
-> Sohbet robotlarıyla etkileşimde bulunmanızı sağlar. Kişisel asistan olarak kullanabilir veya eğlenceli bir sohbet deneyimi yaşayabilirsiniz.
+#### 16- ChatGPT: [Click here to access the AI!](https://chatgpt.com/)
+> It's a text-based chat and information acquisition platform. Users can access a wide range of knowledge by asking questions.
 
-#### 16- ChatGPT: [Yapay Zekaya ulaşmak için tıkla!](https://chatgpt.com/)
-> Metin tabanlı sohbet ve bilgi edinme platformudur. Kullanıcılar, sorularını sorarak geniş bir bilgi yelpazesine erişebilir.
+#### 17- Claude.ai: [Click here to access the AI!](https://claude.ai/)
+> It's an advanced chatbot. It's designed to answer complex questions and stands out with its natural language processing capabilities.
 
-#### 17- Claude.ai: [Yapay Zekaya ulaşmak için tıkla!](https://claude.ai/)
-> Gelişmiş bir sohbet robotudur. Karmaşık sorulara yanıt vermek üzere tasarlanmıştır ve doğal dil işleme yetenekleri ile dikkat çeker.
+#### 18- Cleanup.pictures: [Click here to access the AI!](https://cleanup.pictures/)
+> It allows you to quickly remove unwanted objects from images. It makes your photos cleaner and more professional.
 
-#### 18- Cleanup.pictures: [Yapay Zekaya ulaşmak için tıkla!](https://cleanup.pictures/)
-> Görsellerdeki istenmeyen nesneleri hızlı bir şekilde kaldırmanızı sağlar. Fotoğraflarınızı daha temiz ve profesyonel bir hale getirir.
+#### 19- ClipDrop: [Click here to access the AI!](https://clipdrop.co/)
+> It allows you to quickly cut and add images to other images. It helps users quickly enrich their visual content.
 
-#### 19- ClipDrop: [Yapay Zekaya ulaşmak için tıkla!](https://clipdrop.co/)
-> Görselleri hızlı bir şekilde kesip başka görsellere eklemenizi sağlar. Kullanıcıların görsel içeriklerini hızlıca zenginleştirmelerine yardımcı olur.
+#### 20- Color Pop AI: [Click here to access the AI!](https://colorpop.ai/)
+> It offers image creation and coloring functions. It's a great resource for inspiration in your art projects.
 
-#### 20- Color Pop AI: [Yapay Zekaya ulaşmak için tıkla!](https://colorpop.ai/)
-> Görsel oluşturma ve renklendirme işlevi sunar. Sanat projelerinizde ilham almak için harika bir kaynak.
+#### 21- ColorMagic: [Click here to access the AI!](https://colormagic.app/)
+> It helps you create customized color palettes for your design projects. It enables you to capture the right color harmony for aesthetic designs.
 
-#### 21- ColorMagic: [Yapay Zekaya ulaşmak için tıkla!](https://colormagic.app/)
-> Tasarım projeleriniz için özelleştirilmiş renk paletleri oluşturmanıza yardımcı olur. Estetik tasarımlar için doğru renk uyumunu yakalamanızı sağlar.
+#### 22- Copilot: [Click here to access the AI!](https://copilot.microsoft.com/)
+> It's an assistant that helps users in software development processes. It speeds up workflow by making suggestions in code writing.
 
-#### 22- Copilot: [Yapay Zekaya ulaşmak için tıkla!](https://copilot.microsoft.com/)
-> Yazılım geliştirme süreçlerinde kullanıcıya yardımcı olan bir asistanıdır. Kod yazımında önerilerde bulunarak iş akışını hızlandırır.
+#### 23- Decohere: [Click here to access the AI!](https://www.decohere.ai/)
+> It provides real-time visual production. It offers fast and effective solutions for creative projects.
 
-#### 23- Decohere: [Yapay Zekaya ulaşmak için tıkla!](https://www.decohere.ai/)
-> Gerçek zamanlı görsel üretimi sağlar. Yaratıcı projeler için hızlı ve etkili çözümler sunar.
+#### 24- DeepAI: [Click here to access the AI!](https://deepai.org/)
+> It allows users to transform text into visuals. It's very effective for visual content production.
 
-#### 24- DeepAI: [Yapay Zekaya ulaşmak için tıkla!](https://deepai.org/)
-> Kullanıcılara metinden görsele dönüşüm yapma imkanı tanır. Görsel içerik üretimi için oldukça etkilidir.
+#### 25- DeepL: [Click here to access the AI!](https://www.deepl.com/)
+> It facilitates the creation of multilingual content by offering high-quality translation services. Users can obtain highly accurate translations in various languages.
 
-#### 25- DeepL: [Yapay Zekaya ulaşmak için tıkla!](https://www.deepl.com/)
-> Yüksek kaliteli çeviri hizmetleri sunarak çok dilli içeriklerin oluşturulmasını kolaylaştırır. Kullanıcılar, çeşitli dillerde yüksek doğrulukta çeviriler elde edebilir.
+#### 26- Detect Face Shape: [Click here to access the AI!](https://www.detect-face-shape.com/)
+> It analyzes users' face shapes and offers personal style suggestions. It helps you make more informed choices in the field of fashion.
 
-#### 26- Detect Face Shape: [Yapay Zekaya ulaşmak için tıkla!](https://www.detect-face-shape.com/)
-> Kullanıcıların yüz şekillerini analiz eder ve kişisel stil önerileri sunar. Moda alanında daha bilinçli tercihler yapmanıza yardımcı olur.
+#### 27- Dolby On: [Click here to access the AI!](https://www.dolby.com/apps/dolby-on)
+> It's an audio recording and enhancement platform. It allows you to achieve professional results by improving sound quality in music and podcast production.
 
-#### 27- Dolby On: [Yapay Zekaya ulaşmak için tıkla!](https://www.dolby.com/apps/dolby-on)
-> Ses kaydı ve iyileştirme platformudur. Müzik ve podcast prodüksiyonunda ses kalitesini artırarak profesyonel sonuçlar elde etmenizi sağlar.
+#### 28- ElevenLabs: [Click here to access the AI!](https://elevenlabs.io/)
+> It performs voice cloning and text-to-speech conversion. Users can create customized audio content.
 
-#### 28- ElevenLabs: [Yapay Zekaya ulaşmak için tıkla!](https://elevenlabs.io/)
-> Ses klonlama ve metinden konuşmaya dönüşüm yapar. Kullanıcılar, özelleştirilmiş sesli içerikler oluşturabilir.
+#### 29- Face Swapper: [Click here to access the AI!](https://faceswapper.ai/)
+> It offers face swapping function in images. It can be used to produce fun content.
 
-#### 29- Face Swapper: [Yapay Zekaya ulaşmak için tıkla!](https://faceswapper.ai/)
-> Görsellerde yüz değiştirme işlevi sunar. Eğlenceli içerikler üretmek için kullanılabilir.
+#### 30- Fal.ai: [Click here to access the AI!](https://fal.ai/models/fal-ai/retoucher)
+> It has the ability to retouch visuals. It gives your photos a more professional look.
 
-#### 30- Fal.ai: [Yapay Zekaya ulaşmak için tıkla!](https://fal.ai/models/fal-ai/retoucher)
-> Görsel rötuş yapma yeteneğine sahiptir. Fotoğraflarınızı daha profesyonel bir görünüm kazandırır.
+#### 31- Flair AI: [Click here to access the AI!](https://flair.ai/)
+> It offers aesthetic solutions in social media and marketing projects by creating branded content design.
 
-#### 31- Flair AI: [Yapay Zekaya ulaşmak için tıkla!](https://flair.ai/)
-> Markalı içerik tasarımı yaparak sosyal medya ve pazarlama projelerinde estetik çözümler sunar.
+#### 32- Fontjoy: [Click here to access the AI!](https://fontjoy.com/)
+> It helps you achieve harmony in your design projects by matching different fonts. It allows you to create aesthetically impressive visuals.
 
-#### 32- Fontjoy: [Yapay Zekaya ulaşmak için tıkla!](https://fontjoy.com/)
-> Farklı yazı tiplerini eşleştirerek tasarım projelerinizde uyum sağlamanıza yardımcı olur. Estetik açıdan etkileyici görseller yaratmanıza olanak tanır.
+#### 33- Framer: [Click here to access the AI!](https://framer.com/)
+> It's a comprehensive platform for website design. You can create quick and effective prototypes thanks to its user-friendly interface.
 
-#### 33- Framer: [Yapay Zekaya ulaşmak için tıkla!](https://framer.com/)
-> Web sitesi tasarımı için kapsamlı bir platformdur. Kullanıcı dostu arayüzü sayesinde hızlı ve etkili prototipler oluşturabilirsiniz.
+#### 34- Freepik Pikaso: [Click here to access the AI!](https://www.freepik.com/pikaso)
+> It offers the ability to generate visuals from text. It provides quick and creative solutions for your design projects.
 
-#### 34- Freepik Pikaso: [Yapay Zekaya ulaşmak için tıkla!](https://www.freepik.com/pikaso)
-> Metinden görsel üretme yeteneği sunar. Tasarım projeleriniz için hızlı ve yaratıcı çözümler sunar.
+#### 35- Gemini: [Click here to access the AI!](https://gemini.google.com/)
+> It exchanges information as a chatbot. It allows users to interact on different topics.
 
-#### 35- Gemini: [Yapay Zekaya ulaşmak için tıkla!](https://gemini.google.com/)
-> Sohbet robotu olarak bilgi alışverişi yapar. Kullanıcıların farklı konularda etkileşimde bulunmasını sağlar.
+#### 36- Genmo: [Click here to access the AI!](https://www.genmo.ai/)
+> It converts text to video. It's ideal for those who want to create short and impactful videos.
 
-#### 36- Genmo: [Yapay Zekaya ulaşmak için tıkla!](https://www.genmo.ai/)
-> Metinden videoya dönüşüm yapar. Kısa ve etkileyici videolar oluşturmak isteyenler için idealdir.
+#### 37- GenType: [Click here to access the AI!](https://labs.google/gentype)
+> It helps users create personalized fonts. It allows you to find unique typefaces for design projects.
 
-#### 37- GenType: [Yapay Zekaya ulaşmak için tıkla!](https://labs.google/gentype)
-> Kullanıcıların kişiselleştirilmiş fontlar oluşturmasına yardımcı olur. Tasarım projelerinde özgün yazı tipleri bulmanıza olanak tanır.
+#### 38- Haiper: [Click here to access the AI!](https://haiper.ai/)
+> It offers text-to-video conversion function. It saves time in content production and offers quick solutions.
 
-#### 38- Haiper: [Yapay Zekaya ulaşmak için tıkla!](https://haiper.ai/)
-> Metinden videoya dönüşüm işlevi sunar. İçerik üretiminde zaman kazandırır ve hızlı çözümler sunar.
+#### 39- Hedra: [Click here to access the AI!](https://www.hedra.com/)
+> It offers creative alternatives in your artistic projects with its ability to create and animate visuals.
 
-#### 39- Hedra: [Yapay Zekaya ulaşmak için tıkla!](https://www.hedra.com/)
-> Görsel oluşturma ve canlandırma yeteneği ile sanatsal projelerinizde yaratıcı alternatifler sunar.
+#### 40- Ideogram: [Click here to access the AI!](https://ideogram.ai/)
+> It enriches your narrative by converting texts into visuals. Users can express their ideas in a more visual way.
 
-#### 40- Ideogram: [Yapay Zekaya ulaşmak için tıkla!](https://ideogram.ai/)
-> Metinleri görsellere dönüştürerek anlatımınızı zenginleştirir. Kullanıcılar, fikirlerini daha görsel bir şekilde ifade edebilir.
+#### 41- IllusionDiffusion: [Click here to access the AI!](https://huggingface.co/spaces/AP123/IllusionDiffusion)
+> It serves as a source of inspiration for artistic projects by producing illusion visuals. It can be used to create different and unique visuals.
 
-#### 41- IllusionDiffusion: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/AP123/IllusionDiffusion)
-> İllüzyon görselleri üreterek sanatsal projelere ilham kaynağı olur. Farklı ve özgün görseller oluşturmak için kullanılabilir.
+#### 42- ImageFX: [Click here to access the AI!](https://aitestkitchen.withgoogle.com/tools/image-fx)
+> It offers the ability to create images from text for visual content production. Users can quickly enrich their visuals.
 
-#### 42- ImageFX: [Yapay Zekaya ulaşmak için tıkla!](https://aitestkitchen.withgoogle.com/tools/image-fx)
-> Görsel içerik üretimi için metinden görüntü oluşturma yeteneği sunar. Kullanıcılar, görsellerini hızlıca zenginleştirebilir.
+#### 43- Imagewith.AI: [Click here to access the AI!](https://overscale.imagewith.ai/)
+> It improves the quality of images, making them more professional. It adds depth and clarity to your photos.
 
-#### 43- Imagewith.AI: [Yapay Zekaya ulaşmak için tıkla!](https://overscale.imagewith.ai/)
-> Görsellerin kalitesini artırarak daha profesyonel hale getirilmesini sağlar. Fotoğraflarınıza derinlik ve netlik kazandırır.
+#### 44- Immersity AI: [Click here to access the AI!](https://immersity.ai/)
+> It enriches your visual projects by converting 2D images to 3D. It's useful for game and animation projects.
 
-#### 44- Immersity AI: [Yapay Zekaya ulaşmak için tıkla!](https://immersity.ai/)
-> 2D görüntüleri 3D'ye dönüştürerek görsel projelerinizi zenginleştirir. Oyun ve animasyon projeleri için faydalıdır.
+#### 45- Insta 3D: [Click here to access the AI!](https://huggingface.co/spaces/AchyuthGamer/Insta-3D)
+> It allows users to convert from 2D to 3D. It adds a different dimension to your creative projects.
 
-#### 45- Insta 3D: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/AchyuthGamer/Insta-3D)
-> Kullanıcıların 2D'den 3D'ye dönüşüm yapmasına olanak tanır. Yaratıcı projelerinizde farklı bir boyut kazandırır.
+#### 46- immerse.zone: [Click here to access the AI!](https://www.immerse.zone/)
+> It performs reverse search operations of visual content, helping users find their visual sources.
 
-#### 46- immerse.zone: [Yapay Zekaya ulaşmak için tıkla!](https://www.immerse.zone/)
-> Görsel içeriklerin tersine arama işlemlerini gerçekleştirerek, kullanıcıların görsel kaynaklarını bulmasına yardımcı olur.
+#### 47- Khroma: [Click here to access the AI!](https://www.khroma.co/)
+> As a color palette creation tool, it helps you find harmonious colors for your design projects. It allows you to try different combinations.
 
-#### 47- Khroma: [Yapay Zekaya ulaşmak için tıkla!](https://www.khroma.co/)
-> Renk paletleri oluşturma aracı olarak tasarım projelerinizde uyumlu renkler bulmanıza yardımcı olur. Farklı kombinasyonları denemenizi sağlar.
+#### 48- KREA: [Click here to access the AI!](https://www.krea.ai/apps/image/realtime)
+> It accelerates your creative projects with real-time image production. Users can access visual content instantly.
 
-#### 48- KREA: [Yapay Zekaya ulaşmak için tıkla!](https://www.krea.ai/apps/image/realtime)
-> Gerçek zamanlı görüntü üretimi ile yaratıcı projelerinizi hızlandırır. Kullanıcılar, anında görsel içeriklere ulaşabilir.
+#### 49- LALAL.AI: [Click here to access the AI!](https://www.lalal.ai/)
+> It's a platform used to separate vocals in audio files. It offers a function to clean sounds in music production.
 
-#### 49- LALAL.AI: [Yapay Zekaya ulaşmak için tıkla!](https://www.lalal.ai/)
-> Ses dosyalarındaki vokalleri ayırmak için kullanılan bir platformdur. Müzik prodüksiyonunda sesleri temizleme işlevi sunar.
+#### 50- Let's Enhance: [Click here to access the AI!](https://letsenhance.io/)
+> It's a tool that improves the resolution of images, making them higher quality. It emphasizes the details of your photos.
 
-#### 50- Let’s Enhance: [Yapay Zekaya ulaşmak için tıkla!](https://letsenhance.io/)
-> Görsellerin çözünürlüğünü artırarak daha kaliteli hale getiren bir araçtır. Fotoğraflarınızın detaylarını vurgular.
+#### 51- Magical: [Click here to access the AI!](https://www.getmagical.com/ai)
+> It facilitates content production by analyzing information in specific texts. It's useful for quick information acquisition and content creation.
 
-#### 51- Magical: [Yapay Zekaya ulaşmak için tıkla!](https://www.getmagical.com/ai)
-> Belirli metinlerdeki bilgileri analiz ederek içerik üretimini kolaylaştırır. Hızlı bilgi edinme ve içerik oluşturma için kullanışlıdır.
+#### 52- Magic Eraser: [Click here to access the AI!](https://magicstudio.com/tr/magiceraser/)
+> It offers the function of erasing unwanted objects in images. It makes your photos cleaner.
 
-#### 52- Magic Eraser: [Yapay Zekaya ulaşmak için tıkla!](https://magicstudio.com/tr/magiceraser/)
-> Görsellerdeki istenmeyen nesneleri silme işlevi sunar. Fotoğraflarınızı daha temiz bir hale getirir.
+#### 53- Meme Generator: [Click here to access the AI!](https://www.supermeme.ai/)
+> It allows users to create original meme content. It makes your social media shares more fun.
 
-#### 53- Meme Generator: [Yapay Zekaya ulaşmak için tıkla!](https://www.supermeme.ai/)
-> Kullanıcıların özgün meme içerikleri oluşturmalarına olanak tanır. Sosyal medya paylaşımlarınızı daha eğlenceli hale getirir.
+#### 54- Mentor AI: [Click here to access the AI!](https://www.mymentorai.com/)
+> It provides personal guidance in learning and development processes. Users can receive customized information according to their needs.
 
-#### 54- Mentor AI: [Yapay Zekaya ulaşmak için tıkla!](https://www.mymentorai.com/)
-> Öğrenme ve gelişim süreçlerinde kişisel rehberlik sağlar. Kullanıcılar, ihtiyaçlarına göre özelleştirilmiş bilgiler alabilir.
+#### 55- MidJourney: [Click here to access the AI!](https://www.midjourney.com/home)
+> It's a platform that produces high-quality visuals from text. It can be a source of inspiration for designers.
 
-#### 55- MidJourney: [Yapay Zekaya ulaşmak için tıkla!](https://www.midjourney.com/home)
-> Metinden yüksek kaliteli görseller üreten bir platformdur. Tasarımcılar için ilham kaynağı olabilir.
+#### 56- Mistral: [Click here to access the AI!](https://mistral.ai/)
+> It performs text analysis with advanced language processing features. It helps users organize their content more effectively.
 
-#### 56- Mistral: [Yapay Zekaya ulaşmak için tıkla!](https://mistral.ai/)
-> Gelişmiş dil işleme özellikleri ile metin analizleri yapar. Kullanıcıların içeriklerini daha etkili bir şekilde organize etmelerine yardımcı olur.
+#### 57- Neural.love: [Click here to access the AI!](https://neural.love/)
+> It's a useful platform for enhancing creativity in art projects. It creates visuals in different art styles.
 
-#### 57- Neural.love: [Yapay Zekaya ulaşmak için tıkla!](https://neural.love/)
-> Sanat projelerinde yaratıcılığı artırmak için kullanışlı bir platformdur. Farklı sanat stillerinde görseller oluşturur.
+#### 58- NightCafe: [Click here to access the AI!](https://creator.nightcafe.studio/)
+> It can be used as a visual creation tool for text-based art projects. It's a source of inspiration for creative artworks.
 
-#### 58- NightCafe: [Yapay Zekaya ulaşmak için tıkla!](https://creator.nightcafe.studio/)
-> Metin tabanlı sanat projeleri için görsel oluşturma aracı olarak kullanılabilir. Yaratıcı sanat eserleri için ilham kaynağıdır.
+#### 59- OpenAI Codex: [Click here to access the AI!](https://openai.com/index/openai-codex/)
+> It's a tool that accelerates software development processes. It facilitates the development process by offering code suggestions to users.
 
-#### 59- OpenAI Codex: [Yapay Zekaya ulaşmak için tıkla!](https://openai.com/index/openai-codex/)
-> Yazılım geliştirme süreçlerini hızlandıran bir araçtır. Kullanıcılara kod önerileri sunarak geliştirme sürecini kolaylaştırır.
+#### 60- OpenArt: [Click here to access the AI!](https://openart.ai/)
+> It can be used to develop creative projects in visual art. It supports users in creating artistic content.
 
-#### 60- OpenArt: [Yapay Zekaya ulaşmak için tıkla!](https://openart.ai/)
-> Görsel sanatta yaratıcı projeler geliştirmek için kullanılabilir. Kullanıcıların sanatsal içerik oluşturmasını destekler.
+#### 61- Pencil2D: [Click here to access the AI!](https://www.pencil2d.org/)
+> It offers a user-friendly interface for animation projects. It gives you the opportunity to animate your drawings.
 
-#### 61- Pencil2D: [Yapay Zekaya ulaşmak için tıkla!](https://www.pencil2d.org/)
-> Animasyon projeleri için kullanıcı dostu bir arayüz sunar. Çizimlerinizi hareketlendirme imkanı tanır.
+#### 62- MyLens.AI: [Click here to access the AI!](https://mylens.ai/)
+> It offers text-based draft creation capability. It helps you save time while supporting your creativity.
 
-#### 62- MyLens.AI: [Yapay Zekaya ulaşmak için tıkla!](https://mylens.ai/)
-> Metin tabanlı taslak oluşturma yeteneği sunar. Yaratıcılığınızı desteklerken zamandan tasarruf etmenizi sağlar.
+#### 63- Namelix: [Click here to access the AI!](https://namelix.com/)
+> As a business name generator, it's a source of inspiration for new projects. Users can find creative and memorable names.
 
-#### 63- Namelix: [Yapay Zekaya ulaşmak için tıkla!](https://namelix.com/)
-> İşletme adı oluşturucu olarak, yeni projeler için ilham kaynağıdır. Kullanıcılar, yaratıcı ve akılda kalıcı isimler bulabilir.
+#### 64- Namy.ai: [Click here to access the AI!](https://namy.ai/)
+> As a domain name creation tool, it helps you find a suitable name for your website. It's useful for bringing your internet projects to life.
 
-#### 64- Namy.ai: [Yapay Zekaya ulaşmak için tıkla!](https://namy.ai/)
-> Alan adı oluşturma aracı olarak, web siteniz için uygun isim bulmanıza yardımcı olur. İnternet projelerinizi hayata geçirmek için faydalıdır.
+#### 65- Notion: [Click here to access the AI!](https://www.notion.so/)
+> As a note-taking and productivity tool, it's a versatile platform for organization and business management. It provides an ideal environment for managing different projects.
 
-#### 65- Notion: [Yapay Zekaya ulaşmak için tıkla!](https://www.notion.so/)
-> Not alma ve verimlilik aracı olarak, organizasyon ve iş yönetimi için çok yönlü bir platformdur. Farklı projeleri yönetmek için ideal bir ortam sunar.
+#### 66- OutfitAnyone: [Click here to access the AI!](https://humanaigc.github.io/outfit-anyone/)
+> It offers virtual clothing try-on capability. It enriches fashion projects and shopping experiences.
 
-#### 66- OutfitAnyone: [Yapay Zekaya ulaşmak için tıkla!](https://humanaigc.github.io/outfit-anyone/)
-> Sanal kıyafet deneme imkanı sunar. Moda projeleri ve alışveriş deneyimlerini zenginleştirir.
+#### 67- Palette.fm: [Click here to access the AI!](https://palette.fm/)
+> As a visual colorization tool, it allows you to add different color tones to your photos. It allows you to make creative touches in your art projects.
 
-#### 67- Palette.fm: [Yapay Zekaya ulaşmak için tıkla!](https://palette.fm/)
-> Görsel renklendirme aracı olarak, fotoğraflarınıza farklı renk tonları eklemenizi sağlar. Sanat projelerinizde yaratıcı dokunuşlar yapmanıza olanak tanır.
+#### 68- Perplexity AI: [Click here to access the AI!](https://www.perplexity.ai/)
+> As an advanced search engine, it provides users with quick access to the information they need. It makes it easier to acquire information on the internet.
 
-#### 68- Perplexity AI: [Yapay Zekaya ulaşmak için tıkla!](https://www.perplexity.ai/)
-> Gelişmiş arama motoru olarak, kullanıcıların ihtiyaç duyduğu bilgilere hızlı erişim sağlar. İnternet üzerinde bilgi edinmeyi kolaylaştırır.
+#### 69- Pi: [Click here to access the AI!](https://pi.ai/onboarding)
+> It interacts with users as a chatbot. It can be used as a personal assistant and can help with various topics.
 
-#### 69- Pi: [Yapay Zekaya ulaşmak için tıkla!](https://pi.ai/onboarding)
-> Sohbet robotu olarak kullanıcılarla etkileşimde bulunur. Kişisel asistan olarak kullanılabilir, çeşitli konularda yardımcı olabilir.
+#### 70- Pika: [Click here to access the AI!](https://pika.art/home)
+> It converts text to video. It speeds up content production and enriches your creative projects.
 
-#### 70- Pika: [Yapay Zekaya ulaşmak için tıkla!](https://pika.art/home)
-> Metinden videoya dönüşüm yapar. İçerik üretiminde hız kazandırır ve yaratıcı projelerinizi zenginleştirir.
+#### 71- pinokio: [Click here to access the AI!](https://pinokio.computer/)
+> It brings together multiple artificial intelligence tools. It offers different solutions for various projects.
 
-#### 71- pinokio: [Yapay Zekaya ulaşmak için tıkla!](https://pinokio.computer/)
-> Birden fazla yapay zeka aracını bir araya getirir. Çeşitli projeler için farklı çözümler sunar.
+#### 72- PixVerse: [Click here to access the AI!](https://app.pixverse.ai/login)
+> As an image editing and production tool, it helps you create impressive visuals for your social media shares.
 
-#### 72- PixVerse: [Yapay Zekaya ulaşmak için tıkla!](https://app.pixverse.ai/login)
-> Görüntü düzenleme ve üretim aracı olarak, sosyal medya paylaşımlarınız için etkileyici görseller oluşturmanıza yardımcı olur.
+#### 73- Playground: [Click here to access the AI!](https://playground.com/)
+> It offers the ability to produce visuals from text. It allows you to create impressive content by enhancing your creativity.
 
-#### 73- Playground: [Yapay Zekaya ulaşmak için tıkla!](https://playground.com/)
-> Metinden görsel üretimi imkanı sunar. Yaratıcılığınızı artırarak etkileyici içerikler oluşturmanıza olanak tanır.
+#### 74- PlayHT: [Click here to access the AI!](https://play.ht/)
+> It converts texts into audio. It helps you create and share audio content.
 
-#### 74- PlayHT: [Yapay Zekaya ulaşmak için tıkla!](https://play.ht/)
-> Metinleri sesli hale dönüştürür. Sesli içerikler oluşturmanıza ve paylaşmanıza yardımcı olur.
+#### 75- PlayPhrase.me: [Click here to access the AI!](https://playphrase.me/)
+> It helps you find movie quotes. It provides an interesting resource for producing entertaining content.
 
-#### 75- PlayPhrase.me: [Yapay Zekaya ulaşmak için tıkla!](https://playphrase.me/)
-> Film repliklerini bulmanıza yardımcı olur. Eğlenceli içerik üretimi için ilginç bir kaynak sağlar.
+#### 76- Poe: [Click here to access the AI!](https://poe.com/login)
+> It provides access to different chatbots. Users can experience comprehensive information acquisition.
 
-#### 76- Poe: [Yapay Zekaya ulaşmak için tıkla!](https://poe.com/login)
-> Farklı sohbet robotlarına erişim sağlar. Kullanıcılar, kapsamlı bilgi edinme deneyimi yaşayabilir.
+#### 77- Profile Pic Maker: [Click here to access the AI!](https://picofme.io/)
+> As a profile picture creation tool, it helps you design unique visuals for your social media accounts.
 
-#### 77- Profile Pic Maker: [Yapay Zekaya ulaşmak için tıkla!](https://picofme.io/)
-> Profil resmi oluşturma aracı olarak, sosyal medya hesaplarınız için özgün görseller tasarlamanıza yardımcı olur.
+#### 78- QR Code AI Art Generator: [Click here to access the AI!](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)
+> It generates QR codes. It can be easily used in events or projects.
 
-#### 78- QR Code AI Art Generator: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)
-> QR kodları üretir. Etkinliklerde veya projelerde kolayca kullanılabilir.
+#### 79- QuillBot: [Click here to access the AI!](https://quillbot.com/)
+> It supports your creative content by rewriting text and performing grammar checks.
 
-#### 79- QuillBot: [Yapay Zekaya ulaşmak için tıkla!](https://quillbot.com/)
-> Metni yeniden yazma ve dil bilgisi kontrolü yaparak, yaratıcı içeriklerinizi destekler.
+#### 80- Recraft: [Click here to access the AI!](https://www.recraft.ai/)
+> As a visual creation and editing tool, it's a useful platform for design projects.
 
-#### 80- Recraft: [Yapay Zekaya ulaşmak için tıkla!](https://www.recraft.ai/)
-> Görsel oluşturma ve düzenleme aracı olarak, tasarım projeleri için faydalı bir platformdur.
+#### 81- Remove.bg: [Click here to access the AI!](https://www.remove.bg/)
+> It makes your photos more professional by removing the background of images.
 
-#### 81- Remove.bg: [Yapay Zekaya ulaşmak için tıkla!](https://www.remove.bg/)
-> Görsellerin arka planını kaldırarak, fotoğraflarınızı daha profesyonel hale getirir.
+#### 82- Replicate: [Click here to access the AI!](https://replicate.com/home)
+> It offers solutions for different projects by making multiple artificial intelligence tools available.
 
-#### 82- Replicate: [Yapay Zekaya ulaşmak için tıkla!](https://replicate.com/home)
-> Birden fazla yapay zeka aracını kullanıma sunarak, farklı projeler için çözümler sunar.
+#### 83- Runway: [Click here to access the AI!](https://runwayml.com/)
+> As a video editing and content creation tool, it assists in film and video production.
 
-#### 83- Runway: [Yapay Zekaya ulaşmak için tıkla!](https://runwayml.com/)
-> Video düzenleme ve içerik oluşturma aracı olarak, film ve video prodüksiyonunda yardımcı olur.
+#### 84- Scribble Diffusion: [Click here to access the AI!](https://www.scribblediffusion.ai/)
+> It provides a fun tool for creative projects by converting scribbles into visuals.
 
-#### 84- Scribble Diffusion: [Yapay Zekaya ulaşmak için tıkla!](https://www.scribblediffusion.ai/)
-> Karalamaları görsellere dönüştürerek, yaratıcı projeler için eğlenceli bir araç sağlar.
+#### 85- Seamless Streaming: [Click here to access the AI!](https://huggingface.co/spaces/facebook/seamless-streaming)
+> It helps you create multilingual content by performing real-time audio translation.
 
-#### 85- Seamless Streaming: [Yapay Zekaya ulaşmak için tıkla!](https://huggingface.co/spaces/facebook/seamless-streaming)
-> Sesli gerçek zamanlı çeviri yaparak, çok dilli içerikler oluşturmanıza yardımcı olur.
+#### 86- Semantic Scholar: [Click here to access the AI!](https://www.semanticscholar.org/)
+> As a research and academic content finding tool, it provides access to scientific studies.
 
-#### 86- Semantic Scholar: [Yapay Zekaya ulaşmak için tıkla!](https://www.semanticscholar.org/)
-> Araştırma ve akademik içerik bulma aracı olarak, bilimsel çalışmalara erişim sağlar.
+#### 87- Socratic: [Click here to access the AI!](https://socratic.org/)
+> It allows students to get help on topics they don't understand. It offers homework help and topic explanations.
 
-#### 87- Socratic: [Yapay Zekaya ulaşmak için tıkla!](https://socratic.org/)
-> Öğrencilerin anlamadığı konularda yardım almasına olanak tanır. Ödev yardımı ve konu açıklamaları sunar.
+#### 88- Stable Diffusion: [Click here to access the AI!](https://stability.ai/stable-image)
+> It's used to obtain high-quality visuals by producing online images. It supports users' creative projects.
 
-#### 88- Stable Diffusion: [Yapay Zekaya ulaşmak için tıkla!](https://stability.ai/stable-image)
-> Online görsel üretimi yaparak, yüksek kaliteli görseller elde etmek için kullanılır. Kullanıcıların yaratıcı projelerini destekler.
+#### 89- StarryAI: [Click here to access the AI!](https://starryai.com/)
+> It enriches your artistic projects with its ability to produce visuals from text. It brings out your creativity.
 
-#### 89- StarryAI: [Yapay Zekaya ulaşmak için tıkla!](https://starryai.com/)
-> Metinden görsel üretme yeteneği ile, sanatsal projelerinizi zenginleştirir. Yaratıcılığınızı ortaya çıkarır.
+#### 90- Suno: [Click here to access the AI!](https://suno.com/)
+> It adds a new dimension to your music projects by creating music tracks from texts.
 
-#### 90- Suno: [Yapay Zekaya ulaşmak için tıkla!](https://suno.com/)
-> Metinlerden müzik parçaları oluşturarak, müzik projelerinize yeni bir boyut kazandırır.
+#### 91- TextFX: [Click here to access the AI!](https://www.textfx.co/)
+> As a text effects creation tool, it makes your content more attractive.
 
-#### 91- TextFX: [Yapay Zekaya ulaşmak için tıkla!](https://www.textfx.co/)
-> Metin efektleri oluşturma aracı olarak, içeriklerinizi daha çekici hale getirir.
+#### 92- TinEye: [Click here to access the AI!](https://tineye.com/)
+> It helps you find the origin of images by performing reverse image search. It allows you to discover your visual sources.
 
-#### 92- TinEye: [Yapay Zekaya ulaşmak için tıkla!](https://tineye.com/)
-> Tersine görsel arama yaparak, görsellerin kökenini bulmanıza yardımcı olur. Görsel kaynaklarınızı keşfetmenize olanak tanır.
+#### 93- TinyWow: [Click here to access the AI!](https://tinywow.com/)
+> It makes users' work easier by offering various tools. It provides practical solutions for different needs.
 
-#### 93- TinyWow: [Yapay Zekaya ulaşmak için tıkla!](https://tinywow.com/)
-> Çeşitli araçlar sunarak kullanıcıların işlerini kolaylaştırır. Farklı ihtiyaçlar için pratik çözümler sağlar.
+#### 94- Upscayl: [Click here to access the AI!](https://upscayl.org/)
+> It increases the resolution of your photos by enhancing image quality. It helps you achieve a more professional look.
 
-#### 94- Upscayl: [Yapay Zekaya ulaşmak için tıkla!](https://upscayl.org/)
-> Görsel kalitesini artırarak, fotoğraflarınızın çözünürlüğünü yükseltir. Daha profesyonel bir görünüm elde etmenize yardımcı olur.
+#### 95- v0: [Click here to access the AI!](https://v0.dev/chat)
+> As a user interface creation tool, it's ideal for web and mobile application design. It allows you to create quick prototypes.
 
-#### 95- v0: [Yapay Zekaya ulaşmak için tıkla!](https://v0.dev/chat)
-> Kullanıcı arayüzü oluşturma aracı olarak, web ve mobil uygulama tasarımı için idealdir. Hızlı prototipler oluşturmanızı sağlar.
+#### 96- Vercel AI SDK: [Click here to access the AI!](https://sdk.vercel.ai/)
+> It provides access to different chatbots in software development projects. Users can accelerate software processes.
 
-#### 96- Vercel AI SDK: [Yapay Zekaya ulaşmak için tıkla!](https://sdk.vercel.ai/)
-> Yazılım geliştirme projelerinde farklı sohbet robotlarına erişim sağlar. Kullanıcılar, yazılım süreçlerini hızlandırabilir.
+#### 97- Vocal Remover: [Click here to access the AI!](https://vocalremover.org/)
+> It offers the ability to separate sounds by removing vocals from music. It's a useful tool in music production.
 
-#### 97- Vocal Remover: [Yapay Zekaya ulaşmak için tıkla!](https://vocalremover.org/)
-> Müzikten vokalleri kaldırarak, sesleri ayırma imkanı sunar. Müzik prodüksiyonunda yararlı bir araçtır.
+#### 98- Whisper: [Click here to access the AI!](https://openai.com/index/whisper/)
+> It's used to convert audio content to text by offering speech-to-text conversion function. It speeds up the process of acquiring information.
 
-#### 98- Whisper: [Yapay Zekaya ulaşmak için tıkla!](https://openai.com/index/whisper/)
-> Konuşmaları metne dönüştürme işlevi sunarak, sesli içerikleri yazılı hale getirmek için kullanılır. Bilgi edinme sürecini hızlandırır.
+#### 99- Zarla AI: [Click here to access the AI!](https://www.zarla.com/)
+> As a website creation tool, it allows users to design websites quickly and easily. It brings your projects to life with its user-friendly interface.
 
-#### 99- Zarla AI: [Yapay Zekaya ulaşmak için tıkla!](https://www.zarla.com/)
-> Web sitesi oluşturma aracı olarak, kullanıcıların hızlı ve kolay bir şekilde web siteleri tasarlamalarını sağlar. Kullanıcı dostu arayüzü ile projelerinizi hayata geçirir.
+## Conclusion
+As a rapidly evolving field of technology, artificial intelligence continues to provide effective solutions across nearly every sector. The tools introduced in this blog can help you leverage the power of AI to take your projects to the next level. Whether you’re breaking down language barriers with natural language processing tools or optimizing your data analysis with machine learning tools, you can push your boundaries with these solutions.
 
-## Sonuç
+Each of these tools aims to make complex artificial intelligence processes simpler and more accessible for users. Therefore, you can choose the tool that suits your needs and start developing creative projects with AI right away.
 
-Yapay zeka, hızla gelişen bir teknoloji alanı olarak, neredeyse her sektörde etkili çözümler sunmaya devam ediyor. Bu blogda tanıttığımız araçlar, YZ'nin gücünden yararlanarak projelerinizi bir adım öteye taşımanıza yardımcı olabilir. İster doğal dil işleme araçlarıyla dil bariyerlerini aşın, ister makine öğrenimi araçlarıyla veri analizlerinizi optimize edin, bu çözümlerle sınırlarınızı zorlayabilirsiniz.
+**Remember**, AI technologies are continuously evolving, and new tools are emerging. That’s why we plan to regularly update this blog, so you can stay informed about the latest AI solutions.
 
-Bu araçların her biri, kullanıcılarına karmaşık yapay zeka süreçlerini daha basit ve erişilebilir hale getirme amacı taşır. Bu nedenle, ihtiyacınıza uygun aracı seçip, yapay zeka ile yaratıcı projeler geliştirmeye hemen başlayabilirsiniz.
+Join this exciting world of technology and shape the future today with AI tools!
 
-**Unutmayın**, yapay zeka teknolojileri sürekli gelişiyor ve yeni araçlar ortaya çıkıyor. Bu yüzden, bu blogu düzenli olarak güncellemeyi planlıyoruz, böylece en güncel yapay zeka çözümleri hakkında bilgi sahibi olabilirsiniz.
-
-Teknolojinin bu heyecan verici dünyasına katılın ve yapay zeka araçlarını kullanarak geleceği bugünden şekillendirin!
-
-## Yazar
+## Author
 - Mustafa Arda Düşova
 
